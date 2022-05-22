@@ -63,6 +63,8 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
     
 
 let str = `
+*HOLA ${name}, AQUI ESTA EL MENU, RECUERDA QUE ESTE BOT ES PROPIEDAD DEL GRUPO ➻❥⛄ᗅℕⅈℳℰ🎄ℱᗅℕՏ🌟★ 3.0*  
+
 *<JUEGOS/>*
 ° _${usedPrefix}ppt *papel / tijera /piedra*_
 ° _${usedPrefix}gay2 *<nombre @tag>*_
