@@ -64,7 +64,7 @@ global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★Tesse★'
 
 global.wm = '★𝚃resse★'
-global.igfg = '★𝚃trsse★'
+global.igfg = '★𝚃resse★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
